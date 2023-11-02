@@ -68,7 +68,7 @@ galeria.forEach(eventosGaleria);
 console.log(galeria);
 console.log("teste");
 
-// Animação
-if(window.SimpleAnime){
+// ANIMAÇÃO ----------------------------------------------
+if (window.SimpleAnime) {
     new SimpleAnime();
 }
